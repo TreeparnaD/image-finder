@@ -1,2 +1,2 @@
-# my-projects-playground
-## my 1st github pushed project
+#image finder
+##my 1st github pushed project (fetch api usig javascript)
